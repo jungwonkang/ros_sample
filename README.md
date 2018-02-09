@@ -24,8 +24,11 @@ $ catkin_make
 ~/catkin $ roslaunch pkg_drone_uwb pkg_drone_uwb.launch
 
 Rviz comes up, and set 'odom'
-add Markers and Robot Model
+(Displays -> Global Options -> Fixed Frame ----> odom)
+add Marker and RobotModel
 
+
+![](https://github.com/jungwonkang/doc_supp/blob/master/screen_shot_rviz.jpg)
 
 
 
