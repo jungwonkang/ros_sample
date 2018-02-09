@@ -10,6 +10,14 @@ visualization_msgs/Marker
 urdf
 
 
+frame 'odom' as world frame, and the frame 'base_link'
+tf broadcaster: /node_drone_uwb
+the '/node_drone_uwb' broadcastes a transformation between the two frames.
+
+the 'base_link' is defined in the urdf file.
+
+
+
 ### Build
 
 Put this package under '~/catkin_ws/src'
