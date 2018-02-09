@@ -10,14 +10,14 @@ visualization_msgs/Marker
 urdf
 
 
-[Build]
+### Build
 
 Put this package under '~/catkin_ws/src'
 
 $ catkin_make
 
 
-[Run]
+### Run
 
 ~/catkin $ source devel/setup.bash
 
