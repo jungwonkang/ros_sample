@@ -13,16 +13,17 @@ urdf
 [Build]
 Put this package under '~/catkin_ws/src'
 
-
-odom
-Robot Model
-
-
 $ catkin_make
 
 
+[Run]
 
+~/catkin $ source devel/setup.bash
 
+~/catkin $ roslaunch pkg_drone_uwb pkg_drone_uwb.launch
+
+Rviz comes up, and set 'odom'
+add Markers and Robot Model
 
 
 
