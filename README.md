@@ -36,7 +36,6 @@ Rviz comes up, and set 'odom'
 add Marker and RobotModel
 
 
-![](https://github.com/jungwonkang/doc_supp/blob/master/screen_shot_rviz.jpg)
-
+![](https://github.com/jungwonkang/sample_ros_visualization/blob/master/screen_shot_rviz.jpg)
 
 
