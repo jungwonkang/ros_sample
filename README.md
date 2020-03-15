@@ -1,4 +1,4 @@
-# ros_sample: visualization_msgsMarker and urdf
+# ros_sample: visualization_msgs/Marker and urdf
 ROS sample
 
 
